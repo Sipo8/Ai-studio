@@ -1,0 +1,6 @@
+{
+  "name": "ApexVault - Next-Gen Web3 & Multicurrency Wallet",
+  "description": "Multi-chain crypto & fiat wallet with staking, DEX aggregator, NFT gallery, biometric security, Apple Pay & Google Pay on-ramp, portfolio analytics, and tax reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
